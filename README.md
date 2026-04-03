@@ -1,38 +1,16 @@
-📢 Important Notice: Lab Evaluation–1
-
-Lab Eval–1 will be conducted from 23rd Feb to 27th Feb
-👉 As per your respective lab schedule only.
-
-Marks: 15
-
-Duration: 15 minutes
-
-Mode: Google Quiz
-
-Quiz will be accessible ONLY through your official Thapar email ID.
-
-Make sure Google Quiz is working properly on your device beforehand.
-
-Mobile Phone Requirement:
-
-You must bring your own mobile phone.
-
-Ensure your phone is fully charged.
-
-Any technical issue due to low battery or device problem will be your responsibility.
-
-Strict Academic Integrity Policy:
-
-Use of ChatGPT, WhatsApp, or any form of answer sharing is strictly prohibited.
-
-If any case of cheating is detected:
-
-Student will get 0 marks in Lab Eval–1
-
-Student will be banned from appearing in Lab Eval–2
-
-No apology or request will be entertained
-
-Be prepared and punctual.
-
-No extra time or re-attempt will be given under any circumstances.
+📢 NOTICE
+Lab Evaluation–2
+This is to inform all students that Lab Evaluation–2 will be conducted from 27th April to 1st May during the respective lab slots in the same week.
+🔹 Evaluation Scheme:
+Assignment (9 Marks):
+Each student will choose one project related to data analysis, select an appropriate dataset/database, and perform data analysis using relevant libraries/tools (such as Pandas, NumPy, Matplotlib, etc.). The work must be completed at home and presented during the lab evaluation.
+Viva Voce (6 Marks):
+A viva will be conducted in which 3 questions will be asked to assess conceptual understanding.
+🔹 Important Instructions:
+Students must bring their laptops and demonstrate their project during the evaluation.
+A handwritten report of the project must be submitted at the time of evaluation.
+Ensure that your project is properly working and executable.
+Students should be well-prepared with the concepts related to their assignment and project.
+🔹 Note:
+Evaluation will be conducted strictly in the respective lab during the scheduled lab time.
+No separate evaluation will be entertained.
